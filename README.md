@@ -1,5 +1,4 @@
-# Awesome FBP
-Awesome Flow-Based Programming (FBP) Resources
+# Awesome Flow-Based Programming (FBP) Resources
 
 ## "Official" resources
 - [Inventor's FBP site](http://www.jpaulmorrison.com/fbp/)
