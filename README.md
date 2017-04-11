@@ -12,4 +12,27 @@ Awesome Flow-Based Programming (FBP) Resources
 - [FBP wiki](http://wiki.c2.com/?FlowBasedProgramming)
 
 ## FBP Libraries and frameworks
-- TBC
+
+### Java
+- [JavaFBP](https://github.com/jpaulm/javafbp) - By FBP Inventor
+
+### Javascript
+- [NoFlo](https://noflojs.org/)
+
+### C++
+- [CppFBP](https://github.com/jpaulm/cppfbp) - By FBP Inventor
+- [MicroFlo](http://microflo.org/) - FBP library with a focus on micro-controllers
+
+### Python
+- [Pyperator](https://github.com/baffelli/pyperator) - FBP-based workflow library based on asyncio
+- [PaPy](http://mcieslik-mctp.github.io/papy/) - "Parallel pipelines in Python"
+
+### Go
+- [GoFlow](https://github.com/baffelli/pyperator) - Most well-known and mature Go-based FBP library
+- [Cacades](https://github.com/cascades-fbp/cascades) - Language-agnostic Flow-based Programming (FBP) framework in Go
+- [FlowBase](http://flowbase.org/) - A Go-based FBP micro-framework, using native channels instead of reflection
+
+### Rust
+- [Fractalide](https://github.com/fractalide/fractalide)
+
+(TBC)
