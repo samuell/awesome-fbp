@@ -11,6 +11,10 @@ Awesome Flow-Based Programming (FBP) Resources
 - [Google+ community](https://plus.google.com/communities/109985462312550244212)
 - [FBP wiki](http://wiki.c2.com/?FlowBasedProgramming)
 
+## Books
+- [Flow-Based Programming (2nd ed)](http://a.co/eDK7LgY) - "The" Book, by FBP inventor J.P. Morrison
+- [Dataflow and Reactive Programming Systems](https://leanpub.com/dataflowbook) - Short book comparing FBP to a few similar approaches 
+
 ## FBP Libraries and frameworks
 
 ### Java
