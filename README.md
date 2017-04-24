@@ -14,6 +14,9 @@
 - [Flow-Based Programming (2nd ed)](http://a.co/eDK7LgY) - "The" Book, by FBP inventor J.P. Morrison
 - [Dataflow and Reactive Programming Systems](https://leanpub.com/dataflowbook) - Short book comparing FBP to a few similar approaches 
 
+## Lists of links
+- [J Paul Morrisons list of (external) links](http://www.jpaulmorrison.com/fbp/links_external.html)
+
 ## FBP Libraries and frameworks
 
 ### Java
