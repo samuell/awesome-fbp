@@ -36,7 +36,7 @@
 
 ### Go
 - [GoFlow](https://github.com/baffelli/pyperator) - Most well-known and mature Go-based FBP library
-- [Cacades](https://github.com/cascades-fbp/cascades) - Language-agnostic Flow-based Programming (FBP) framework in Go
+- [Cascades](https://github.com/cascades-fbp/cascades) - Language-agnostic Flow-based Programming (FBP) framework in Go
 - [FlowBase](http://flowbase.org/) - A Go-based FBP micro-framework, using native channels instead of reflection
 
 ### Rust
