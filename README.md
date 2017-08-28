@@ -24,6 +24,7 @@
 
 ### Javascript
 - [NoFlo](https://noflojs.org/)
+- [Node-RED](https://nodered.org/)
 
 ### C++
 - [CppFBP](https://github.com/jpaulm/cppfbp) - By FBP Inventor
