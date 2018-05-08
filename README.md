@@ -21,6 +21,7 @@
 
 ### Java
 - [JavaFBP](https://github.com/jpaulm/javafbp) - By FBP Inventor
+- [Apache NiFi](https://nifi.apache.org/) - A data processing system developed by the NSA
 
 ### Javascript
 - [NoFlo](https://noflojs.org/)
