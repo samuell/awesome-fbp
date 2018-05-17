@@ -19,6 +19,11 @@
 
 ## FBP Libraries and frameworks
 
+### Graphical FBP network editors
+
+- [drawfbp](https://github.com/jpaulm/drawfbp) - Java based simple FBP editor created by FBP inventor
+- [FlowHub](https://flowhub.io/) - Web based interface particularly for NoFlo (see below), but also supports a generic FBP network protocol
+
 ### Java
 - [JavaFBP](https://github.com/jpaulm/javafbp) - By FBP Inventor
 - [Apache NiFi](https://nifi.apache.org/) - A data processing system developed by the NSA
