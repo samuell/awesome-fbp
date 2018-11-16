@@ -11,7 +11,7 @@
 
 ## Books
 - [Flow-Based Programming (2nd ed)](http://a.co/eDK7LgY) - "The" Book, by FBP inventor J.P. Morrison
-- [Dataflow and Reactive Programming Systems](https://leanpub.com/dataflowbook) - Short book comparing FBP to a few similar approaches 
+- [Dataflow and Reactive Programming Systems](https://leanpub.com/dataflowbook) - Short book comparing FBP to a few similar approaches
 
 ## Lists of links
 - [J Paul Morrisons list of (external) links](http://www.jpaulmorrison.com/fbp/links_external.html)
@@ -22,6 +22,7 @@
 
 - [drawfbp](https://github.com/jpaulm/drawfbp) - Java based simple FBP editor created by FBP inventor
 - [FlowHub](https://flowhub.io/) - Web based interface particularly for NoFlo (see below), but also supports a generic FBP network protocol
+- [Slang](https://tryslang.com/) - Short for stream language, offering purely visual programming without the need of preprogrammed components
 
 ### Java
 - [JavaFBP](https://github.com/jpaulm/javafbp) - By FBP Inventor
