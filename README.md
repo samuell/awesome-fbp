@@ -30,6 +30,7 @@
 
 ### Javascript
 - [NoFlo](https://noflojs.org/)
+- [JSFBP](https://github.com/jpaulm/jsfbp)
 - [Node-RED](https://nodered.org/)
 
 ### C++
