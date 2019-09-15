@@ -1,7 +1,7 @@
 # Awesome Flow-Based Programming (FBP) Resources
 
 ## "Official" resources
-- [Inventor's FBP site](http://www.jpaulmorrison.com/fbp/)
+- [Inventor's FBP site](https://jpaulm.github.io/fbp/)
 - [Wikipedia article](https://en.wikipedia.org/wiki/Flow-based_programming)
 
 ## Community resources
