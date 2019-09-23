@@ -6,7 +6,6 @@
 
 ## Community resources
 - [Google group / mailing list](https://groups.google.com/forum/#!forum/flow-based-programming)
-- [Google+ community](https://plus.google.com/communities/109985462312550244212)
 - [FBP wiki](http://wiki.c2.com/?FlowBasedProgramming)
 
 ## Books
