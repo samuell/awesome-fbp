@@ -7,6 +7,7 @@
 ## Community resources
 - [Google group / mailing list](https://groups.google.com/forum/#!forum/flow-based-programming)
 - [FBP wiki](http://wiki.c2.com/?FlowBasedProgramming)
+- [FBP Slack](https://fbphq.slack.com/) - ([Invitation link](https://join.slack.com/t/fbphq/shared_invite/enQtOTM4ODkzMTYyODE3LTJiMmNlZjhiMWY1MDY1ODA4Y2YzNDBlNDZlMTBkMDNlMjcwNzg2MGZhZjA2NjJjYTliYTM0OTIyYmM0Yzk0MDQ))
 
 ## Books
 - [Flow-Based Programming (2nd ed)](http://a.co/eDK7LgY) - "The" Book, by FBP inventor J.P. Morrison
@@ -19,7 +20,7 @@
 
 ### Graphical FBP network editors
 
-- [drawfbp](https://github.com/jpaulm/drawfbp) - Java based simple FBP editor created by FBP inventor
+- [DrawFBP](https://github.com/jpaulm/drawfbp) - Java based simple FBP editor created by FBP inventor
 - [FlowHub](https://flowhub.io/) - Web based interface particularly for NoFlo (see below), but also supports a generic FBP network protocol
 - [Slang](https://tryslang.com/) - Short for stream language, offering purely visual programming without the need of preprogrammed components
 
