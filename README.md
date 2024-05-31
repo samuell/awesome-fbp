@@ -45,6 +45,7 @@
 - [GoFlow](https://github.com/trustmaster/goflow) - Most well-known and mature Go-based FBP library
 - [Cascades](https://github.com/cascades-fbp/cascades) - Language-agnostic Flow-based Programming (FBP) framework in Go
 - [FlowBase](http://flowbase.org/) - A Go-based FBP micro-framework, using native channels instead of reflection
+- [Flowgraph](https://github.com/vectaport/flowgraph) -- FBP framework using efficient buffered channels for data flow and back-pressure
 
 ### Rust
 - [Fractalide](https://github.com/fractalide/fractalide)
