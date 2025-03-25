@@ -34,6 +34,7 @@
 - [Node-RED](https://nodered.org/)
 
 ### C++
+- [RAMEN 🍜](https://github.com/Zubax/ramen) - simple single-header unopinionated library for microcontrollers
 - [CppFBP](https://github.com/jpaulm/cppfbp) - By FBP Inventor
 - [MicroFlo](http://microflo.org/) - FBP library with a focus on micro-controllers
 
