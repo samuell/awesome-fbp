@@ -46,6 +46,7 @@
 - [Cascades](https://github.com/cascades-fbp/cascades) - Language-agnostic Flow-based Programming (FBP) framework in Go
 - [FlowBase](http://github.com/flowbase/flowbase) - A Go-based FBP micro-framework, using native channels instead of reflection
 - [Flowgraph](https://github.com/vectaport/flowgraph) - FBP framework using efficient buffered channels for data flow and back-pressure
+- [FMesh](https://github.com/hovsep/fmesh) - FBP inspired framework with deterministic, discrete execution cycles.
 
 ### Rust
 - [Fractalide](https://github.com/fractalide/fractalide)
