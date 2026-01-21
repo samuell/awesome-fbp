@@ -49,6 +49,7 @@
 - [FMesh](https://github.com/hovsep/fmesh) - FBP inspired framework with deterministic, discrete execution cycles.
 
 ### Rust
+- [Async-Flow](https://github.com/artob/async-flow) - Async abstractions for flow-based programming in Rust.
 - [Fractalide](https://github.com/fractalide/fractalide)
 
 (TBC)
