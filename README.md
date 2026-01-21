@@ -48,6 +48,7 @@
 - [Flowgraph](https://github.com/vectaport/flowgraph) - FBP framework using efficient buffered channels for data flow and back-pressure
 
 ### Rust
+- [Async-Flow](https://github.com/artob/async-flow) - Async abstractions for flow-based programming in Rust.
 - [Fractalide](https://github.com/fractalide/fractalide)
 
 (TBC)
