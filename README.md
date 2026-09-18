@@ -23,19 +23,27 @@
 - [DrawFBP](https://github.com/jpaulm/drawfbp) - Java based simple FBP editor created by FBP inventor
 - [FlowHub](https://flowhub.io/) - Web based interface particularly for NoFlo (see below), but also supports a generic FBP network protocol
 - [Slang](https://tryslang.com/) - Short for stream language, offering purely visual programming without the need of preprogrammed components
+- [Threadworks](https://github.com/alfu32/threadworks) - FBP IDE, integrates flow design, code editor, code generator(C,Go,Kotlin,PHP,JS-node,qjs-ng), project management, archetypes library, documentation generator, prompting support.
 
 ### Java
 - [JavaFBP](https://github.com/jpaulm/javafbp) - By FBP Inventor
 - [Apache NiFi](https://nifi.apache.org/) - A data processing system developed by the NSA
 
+### Kotlin
+- [Threadworks](https://github.com/alfu32/threadworks) - FBP IDE,flow design, code editor, code generator kotlin-jvm, archetypes library.
+
 ### Javascript
 - [NoFlo](https://noflojs.org/)
 - [JSFBP](https://github.com/jpaulm/jsfbp)
 - [Node-RED](https://nodered.org/)
+- [Threadworks](https://github.com/alfu32/threadworks) - FBP IDE,flow design, code editor, code generator for node and qjs-ng, archetypes library.
 
 ### C++
 - [CppFBP](https://github.com/jpaulm/cppfbp) - By FBP Inventor
 - [MicroFlo](http://microflo.org/) - FBP library with a focus on micro-controllers
+
+### C
+- [Threadworks](https://github.com/alfu32/threadworks) - FBP IDE,flow design, code editor, code generator, archetypes library.
 
 ### Python
 - [Pyperator](https://github.com/baffelli/pyperator) - FBP-based workflow library based on asyncio
@@ -46,8 +54,10 @@
 - [Cascades](https://github.com/cascades-fbp/cascades) - Language-agnostic Flow-based Programming (FBP) framework in Go
 - [FlowBase](http://github.com/flowbase/flowbase) - A Go-based FBP micro-framework, using native channels instead of reflection
 - [Flowgraph](https://github.com/vectaport/flowgraph) - FBP framework using efficient buffered channels for data flow and back-pressure
+- [Threadworks](https://github.com/alfu32/threadworks) - FBP IDE,flow design, code editor, code generator, archetypes library.
 
 ### Rust
 - [Fractalide](https://github.com/fractalide/fractalide)
 
 (TBC)
+
